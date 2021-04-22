@@ -2,3 +2,7 @@ olá,Lucas
 sim
 dois
 três
+quatro
+cinco
+seis
+sete
