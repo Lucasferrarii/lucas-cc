@@ -6,4 +6,9 @@ quatro
 cinco
 seis
 sete
+50
 oito
+20
+30
+10
+15
